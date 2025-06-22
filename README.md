@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20RDKit%20%7C%20Seaborn-orange.svg)
 ![Environment](https://img.shields.io/badge/Environment-Google%20Colab-F9AB00.svg?logo=googlecolab)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 This project is a walkthrough of a computational drug discovery workflow, from data acquisition to exploratory data analysis (EDA). The goal is to identify and analyze chemical compounds with potential bioactivity against a specific protein target of the Coronavirus, sourced from the ChEMBL database.
 
 ## Project Overview
