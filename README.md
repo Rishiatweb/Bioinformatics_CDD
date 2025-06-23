@@ -51,10 +51,8 @@ This project is designed to be run in a Google Colab environment, which simplifi
 
 ### How to Run
 1.  **Clone the Repository (Optional):**
-    ```bash
-    git clone https://github.com/YourUsername/YourRepositoryName.git
-    ```
 2.  **Open in Google Colab:**
+    -   Download a copy of the ipynb file.
     -   Go to [Google Colab](https://colab.research.google.com/).
     -   Click `File` -> `Upload notebook...` and select the `bioinformatics_1.ipynb` file from the cloned repository.
 3.  **Run the Notebook:**
@@ -65,7 +63,7 @@ This project is designed to be run in a Google Colab environment, which simplifi
 
 ## Future Work
 The exploratory analysis performed here lays the groundwork for the next logical step: building a predictive machine learning model.
--   **Develop a QSAR Model:** Build a Quantitative Structure-Activity Relationship (QSAR) model to predict the pIC50 value (and thus, the bioactivity) of a molecule based on its chemical structure.
+-   **Develop a QSAR Model:** Build a Quantitative Structure-Activity Relationship (QSAR) model to predict the pIC50 value (and thus, the bioactivity) of a molecule based on its chemical structure.(**currently being explored**)
 -   **Feature Selection:** Use more advanced molecular descriptors and apply feature selection techniques to improve model performance.
 -   **Model Evaluation:** Train and evaluate various regression models (e.g., Random Forest, Gradient Boosting) and compare their predictive power.
 
