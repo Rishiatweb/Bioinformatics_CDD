@@ -104,5 +104,3 @@ No local installation is required.
 
 ## Citation
 If you use this code or concepts from this project in your work, please cite this repository. Also you are welcome to contribute to this project as it is open-source
-
-```
