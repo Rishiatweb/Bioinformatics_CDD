@@ -45,8 +45,7 @@ Exploratory Data Analysis is crucial for understanding the dataset's characteris
 
 The plot below visualizes the inverse logarithmic relationship between IC50 and pIC50, with data points colored by their assigned bioactivity class.
 
-![IC50 vs pIC50 Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/blob/main/plot_ic50_vs_pic50.png) <!-- Placeholder, you'll upload your actual plot. Remember to make the link relative or direct. -->
-
+![IC50 vs pIC50 Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/blob/main/plot_ic50_vs_pic50.png)
 This visualization effectively demonstrates:
 *   The **logarithmic transformation** effectively compresses a wide range of IC50 values into a more manageable pIC50 scale.
 *   The distinct clustering of **active** (pIC50 >= 6), **intermediate** (5 < pIC50 < 6), and **inactive** (pIC50 <= 5) compounds, as defined by the IC50 thresholds (`1,000 nM` and `10,000 nM`).
@@ -136,7 +135,7 @@ morgan_1087    0.008389
 morgan_110     0.008294
 ```
 
-![Fingerprint Feature Importances Plot](https://github.com/[YourGitHubUsername]/[YourRepositoryName]/blob/main/plot_fingerprint_importances.png) <!-- Placeholder for your plot -->
+![Fingerprint Feature Importances Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/blob/main/Important%20Features.png)
 
 #### Top 20 Most Important Features (RDKit Descriptors)
 
@@ -165,7 +164,7 @@ VSA_EState2            0.012595
 MolLogP                0.012055
 ```
 
-![Descriptor Feature Importances Plot](https://github.com/[YourGitHubUsername]/[YourRepositoryName]/blob/main/plot_descriptor_importances.png) <!-- Placeholder for your plot -->
+![Descriptor Feature Importances Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/blob/main/descriptors.png)
 
 *   **Key Interpretive Insights:**
     *   **Molecular Density (FpDensityMorganX):** These descriptors, consistently at the top, highlight that the density of atoms and bonds within a molecule (how "packed" it is) is a crucial factor for its activity against Mpro.
