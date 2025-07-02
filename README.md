@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20RDKit%20%7C%20Scikit--learn%20%7C%20Seaborn-orange.svg)
 ![Environment](https://img.shields.io/badge/Environment-Google%20Colab-F9AB00.svg?logo=googlecolab)
+
 This project demonstrates a comprehensive computational drug discovery workflow, from data acquisition and preprocessing to advanced Quantitative Structure-Activity Relationship (QSAR) model development, hyperparameter optimization, and interpretability analysis. The primary goal is to predict the bioactivity (pIC50) of chemical compounds against a specific coronavirus protein target: **SARS coronavirus main protease (CHEMBL3927)**.
 
 ## Project Overview
