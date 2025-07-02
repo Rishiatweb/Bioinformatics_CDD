@@ -45,7 +45,7 @@ Exploratory Data Analysis is crucial for understanding the dataset's characteris
 
 The plot below visualizes the inverse logarithmic relationship between IC50 and pIC50, with data points colored by their assigned bioactivity class.
 
-![IC50 vs pIC50 Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/plot_ic50_vs_pic50.png) <!-- Placeholder, you'll upload your actual plot. Remember to make the link relative or direct. -->
+![IC50 vs pIC50 Plot](https://github.com/Rishiatweb/Bioinformatics_CDD/blob/main/plot_ic50_vs_pic50.png) <!-- Placeholder, you'll upload your actual plot. Remember to make the link relative or direct. -->
 
 This visualization effectively demonstrates:
 *   The **logarithmic transformation** effectively compresses a wide range of IC50 values into a more manageable pIC50 scale.
