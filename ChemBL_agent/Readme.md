@@ -2,7 +2,6 @@
 
 This repository contains a Jupyter Notebook (`ChemBL_agent_simulation.ipynb`) that implements and simulates an AI agent for accelerating molecular bioactivity prediction. The project demonstrates how active learning strategies can be applied to Quantitative Structure-Activity Relationship (QSAR) modeling to more efficiently guide the process of drug discovery.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
 <a href="https://colab.research.google.com/github/Rishiatweb/Bioinformatics_CDD/blob/main/ChemBL_agent/ChemBL_agent_simulation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
