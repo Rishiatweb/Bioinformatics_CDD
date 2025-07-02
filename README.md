@@ -184,15 +184,10 @@ This project is designed for execution in a Google Colab environment, which simp
 
 ### How to Run
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/[YourGitHubUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
-    ```
-2.  **Open in Google Colab:**
+1.  **Open in Google Colab:**
     *   Go to [Google Colab](https://colab.research.google.com/).
     *   Click `File` -> `Upload notebook...` and select the `bioinformatics_1ext_all_possible_testings.ipynb` file from your cloned repository.
-3.  **Execute the Notebook:**
+2.  **Execute the Notebook:**
     *   Run all cells in order from top to bottom (`Runtime` -> `Run all`).
     *   You will be prompted to mount your Google Drive. Authorize the connection to allow the notebook to save and load files (`.csv`, `.pdf`) to your Drive.
     *   The notebook will automatically handle the installation of all necessary Python libraries, including `chembl_webresource_client` and `rdkit` (via Miniconda installation within Colab).
