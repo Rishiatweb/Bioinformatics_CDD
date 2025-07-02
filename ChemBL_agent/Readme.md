@@ -103,14 +103,6 @@ No local installation is required.
 -   **Integration with Generative Models:** Combine the predictive agent with a generative model that designs novel molecules, creating a closed-loop system for de novo drug design.
 
 ## Citation
-If you use this code or concepts from this project in your work, please cite this repository. Also you are welcome to contribute
+If you use this code or concepts from this project in your work, please cite this repository. Also you are welcome to contribute to this project as it is open-source
 
 ```
-@misc{chembl_agent_simulation_2024,
-  author = https://github.com/Rishiatweb,
-  title = {AI Agent for QSAR-Driven Drug Discovery: An Active Learning Simulation},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/[YourUsername]/[YourRepoName]}}
-}
